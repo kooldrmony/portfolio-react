@@ -1,0 +1,15 @@
+.wrapper {
+  /*padding-top: 50px;*/
+  /*background: #ECEFF1;*/
+  height: 100%;
+  background-image: url('http://faradezhco.com/wp-content/uploads/background-1600x800.jpg');
+   background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  /*display: flex;*/
+  /*flex-flow: row wrap;*/
+  padding: 450px;
+  /*justify-content: space-around;*/
+  /*align-content: center;*/
+  /*overflow: auto;*/
+}
